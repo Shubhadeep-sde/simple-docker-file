@@ -8,7 +8,7 @@ public class DockerDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerDemoApplication.class, args);
-		System.out.println("My springboot application is running");
+		System.out.println("My springboot application is running in docker");
 	}
 
 }
